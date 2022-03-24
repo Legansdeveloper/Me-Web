@@ -36,6 +36,7 @@ ol span a
    letter-spacing: 2px;
    text-transform: uppercase;
    color: #000000;
+  font-size: 25px;
 
 }
    .img 
@@ -43,8 +44,8 @@ ol span a
       position: relative;
       top: 0;
       left: 0;
-      width: 100px;
-      height: 100px;
+      width: 125px;
+      height: 125px;
    }
    ul li 
    {
@@ -57,7 +58,7 @@ ol span a
    line-height: 40px;
    letter-spacing: 2px;
    text-transform: uppercase;
-      font-size: 40px;
+      font-size: 60px;
       align-items: center;
       color: transparent;
    -webkit-text-stroke:1px #fff;
